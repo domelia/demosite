@@ -1,0 +1,13 @@
+---
+title: "favorites"
+---
+
+# My favorite books
+
+1.  Master and Marguerite
+2.  Crime and Punishment
+
+## My favorite essays
+
+1.  Some text
+2.  Some text
