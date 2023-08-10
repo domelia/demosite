@@ -1,5 +1,5 @@
 ---
-title: "favorites"
+title: "Favorites"
 ---
 
 # My favorite books
